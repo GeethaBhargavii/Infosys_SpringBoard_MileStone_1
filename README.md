@@ -1,5 +1,5 @@
 # Infosys_SpringBoard_MileStone_1
-AI-Driven Supply Chain Management System: Integration, Prediction, and Optimization
+Supply Chain Management System:
 
 Introduction
 
